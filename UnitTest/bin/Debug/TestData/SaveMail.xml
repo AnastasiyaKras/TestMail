@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfMailData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MailData>
+    <Login>testovoezadanie</Login>
+    <Password>Testovoezadanie1</Password>
+    <Theme>Тест</Theme>
+    <Address>nikkikillerz@mail.ru</Address>
+    <Content>Тест</Content>
+  </MailData>
+</ArrayOfMailData>
